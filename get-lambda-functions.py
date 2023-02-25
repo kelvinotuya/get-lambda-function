@@ -1,5 +1,5 @@
 import boto3
-# ugo know too much 2
+
 # create a boto3 client to access lambda
 client = boto3.client('lambda')
 
